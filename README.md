@@ -1,8 +1,6 @@
-# COMP-478 Final Project: 
 ## Comparing Various Pre-Trained Deep Learning Models for Brain Tumor Image Classification
-Hamzah Sheikh 40103993
-
-Muhammad Ferreira 4011332
+Hamzah Sheikh 
+Muhammad Ferreira 
 
 ### Summary
 
