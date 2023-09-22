@@ -1,5 +1,5 @@
 ## Comparing Various Pre-Trained Deep Learning Models for Brain Tumor Image Classification
-Hamzah Sheikh 
+Hamzah Sheikh and 
 Muhammad Ferreira 
 
 ### Summary
